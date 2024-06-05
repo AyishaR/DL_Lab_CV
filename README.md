@@ -1,1 +1,1 @@
-# Deep Learning Lab - Exercise 2 - Computer Vision
+# Deep Learning Lab - Exercise 3 - Computer Vision
